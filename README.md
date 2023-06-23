@@ -9,7 +9,7 @@
 ## Contatos:
 
 <div>
-<a href="(https://www.linkedin.com/in/william-macarini-288aa5189)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)]([https://www.linkedin.com/in/milan-jovanovic](https://www.linkedin.com/in/william-macarini-288aa5189))
 </div>
 
 ## My main skills ↓
