@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is William Prussak Macarini and my nickname is williammacarini!
 
-- 👨‍💻 I've been working as a Software Developer .NET almost 4 years at AmbevTech.
+- 👨‍💻 I've been working as a Software Developer .NET more 4 years at AmbevTech.
   - 👨‍💻 I've worked as a Support Analyst for 1 years at AmbevTech.
   - 👨‍💻 I've worked as a IT Support for 3 years at Grupo Cristina.
 - 📫 How to reach me: wpmacarini@hotmail.com
