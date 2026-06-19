@@ -1,17 +1,126 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is William Prussak Macarini and my nickname is williammacarini!
+# Hi, I'm William Macarini
 
-- 👨‍💻 I've been working as a Software Developer .NET more 4 years at AmbevTech.
-  - 👨‍💻 I've worked as a Support Analyst for 1 years at AmbevTech.
-  - 👨‍💻 I've worked as a IT Support for 3 years at Grupo Cristina.
-- 📫 How to reach me: wpmacarini@hotmail.com
+Senior Software Engineer specializing in distributed systems, cloud-native architectures, and high-scale backend platforms.
 
-## Contatos:
+Currently working at Mercado Libre, building and evolving fiscal and billing systems that process millions of requests daily and billions of transactions monthly across Latin America.
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/william-macarini-288aa5189)
+## About Me
 
-## My main skills ↓
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-          
+* 💼 Senior Software Engineer with 7+ years of experience
+* 🌎 Building large-scale systems serving Brazil, Chile, and Peru
+* ⚡ Strong background in Microservices, Event-Driven Architecture, and Distributed Systems
+* ☁️ Experienced with Azure, Kubernetes, Docker, Cloud Infrastructure, and Observability
+* 🔥 Passionate about Software Architecture, Performance Optimization, and Scalability
+* 🤖 Exploring AI, LLMs, Agentic Systems, and Software Engineering Automation
+
+## 🏢 Professional Experience
+
+### Senior Software Engineer (Go / .NET)
+
+**Mercado Libre** | Nov 2024 - Present
+
+* Designing and maintaining fiscal and billing platforms supporting more than 80K sellers
+* Building event-driven systems using Go
+* Improving performance, scalability, and system reliability
+* Leading architectural improvements across a large microservices ecosystem
+
+### Software Engineer (.NET)
+
+**Ambev Tech** | Sep 2020 - Nov 2024
+
+* Led migration from monolithic architecture to microservices
+* Reduced payment processing time from 45 days to 7 days
+* Developed mission-critical payment and contract systems
+* Worked extensively with PostgreSQL performance optimization and distributed architectures
+
+### Support Analyst (L1/L2/L3)
+
+**Ambev Tech** | Sep 2019 - Sep 2020
+
+### IT Support
+
+**Grupo Cristina** | Feb 2017 - Sep 2019
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Go
+* C#
+* .NET Core
+* ASP.NET Core
+
+### Architecture
+
+* Microservices
+* Event-Driven Architecture
+* CQRS
+* Event Sourcing
+* Clean Architecture
+* Hexagonal Architecture
+* Onion Architecture
+* Distributed Systems
+
+### Cloud & Infrastructure
+
+* Azure
+* Kubernetes
+* Docker
+* AWS
+* GCP
+
+### Data & Messaging
+
+* PostgreSQL
+* MySQL
+* Redis
+* Kafka
+* BigQuery
+
+### Observability
+
+* Datadog
+* OpenTelemetry
+* Kibana
+
+---
+
+## 🌐 Projects
+
+### IP Dev Blog
+
+Personal project focused on Software Engineering, Architecture, Cloud, AI, and Career Growth.
+
+🔗 https://ipdevblog.vercel.app
+
+Built with:
+
+* Next.js
+* .NET
+* PostgreSQL
+* CI/CD
+
+---
+
+## 📫 Contact
+
+* Email: [wpmacarini@hotmail.com](mailto:wpmacarini@hotmail.com)
+* LinkedIn: https://linkedin.com/in/william-macarini-288aa5189
+* Blog: https://ipdevblog.vercel.app
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammacarini\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williammacarini\&layout=compact)
+
+</div>
+
           
           
