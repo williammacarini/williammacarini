@@ -2,7 +2,7 @@
 
 Senior Software Engineer specializing in distributed systems, cloud-native architectures, and high-scale backend platforms.
 
-Currently working at Mercado Libre, building and evolving fiscal and billing systems that process millions of requests daily and billions of transactions monthly across Latin America.
+Currently working at Mercado Pago/Mercado Libre, building and evolving fiscal and billing systems that process millions of requests daily and billions of transactions monthly across Latin America.
 
 ## About Me
 
@@ -17,7 +17,7 @@ Currently working at Mercado Libre, building and evolving fiscal and billing sys
 
 ### Senior Software Engineer (Go / .NET)
 
-**Mercado Libre** | Nov 2024 - Present
+**Mercado Pago / Mercado Libre** | Nov 2024 - Present
 
 * Designing and maintaining fiscal and billing platforms supporting more than 80K sellers
 * Building event-driven systems using Go
