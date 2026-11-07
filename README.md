@@ -1,126 +1,91 @@
 # Hi, I'm William Macarini
 
-Senior Software Engineer specializing in distributed systems, cloud-native architectures, and high-scale backend platforms.
+**Senior Software Engineer** — distributed systems, cloud-native architecture, and high-scale backend platforms in **Go** and **.NET**.
 
-Currently working at Mercado Pago/Mercado Libre, building and evolving fiscal and billing systems that process millions of requests daily and billions of transactions monthly across Latin America.
-
-## About Me
-
-* 💼 Senior Software Engineer with 7+ years of experience
-* 🌎 Building large-scale systems serving Brazil, Chile, and Peru
-* ⚡ Strong background in Microservices, Event-Driven Architecture, and Distributed Systems
-* ☁️ Experienced with Azure, Kubernetes, Docker, Cloud Infrastructure, and Observability
-* 🔥 Passionate about Software Architecture, Performance Optimization, and Scalability
-* 🤖 Exploring AI, LLMs, Agentic Systems, and Software Engineering Automation
-
-## 🏢 Professional Experience
-
-### Senior Software Engineer (Go / .NET)
-
-**Mercado Pago / Mercado Libre** | Nov 2024 - Present
-
-* Designing and maintaining fiscal and billing platforms supporting more than 80K sellers
-* Building event-driven systems using Go
-* Improving performance, scalability, and system reliability
-* Leading architectural improvements across a large microservices ecosystem
-
-### Software Engineer (.NET)
-
-**Ambev Tech** | Sep 2020 - Nov 2024
-
-* Led migration from monolithic architecture to microservices
-* Reduced payment processing time from 45 days to 7 days
-* Developed mission-critical payment and contract systems
-* Worked extensively with PostgreSQL performance optimization and distributed architectures
-
-### Support Analyst (L1/L2/L3)
-
-**Ambev Tech** | Sep 2019 - Sep 2020
-
-### IT Support
-
-**Grupo Cristina** | Feb 2017 - Sep 2019
+Currently at **Mercado Pago / Mercado Libre**, building and evolving fiscal and billing systems that process millions of requests daily across Latin America.
 
 ---
 
-## 🛠️ Tech Stack
+## What I work on
 
-### Languages
-
-* Go
-* C#
-* .NET Core
-* ASP.NET Core
-
-### Architecture
-
-* Microservices
-* Event-Driven Architecture
-* CQRS
-* Event Sourcing
-* Clean Architecture
-* Hexagonal Architecture
-* Onion Architecture
-* Distributed Systems
-
-### Cloud & Infrastructure
-
-* Azure
-* Kubernetes
-* Docker
-* AWS
-* GCP
-
-### Data & Messaging
-
-* PostgreSQL
-* MySQL
-* Redis
-* Kafka
-* BigQuery
-
-### Observability
-
-* Datadog
-* OpenTelemetry
-* Kibana
+- **Fiscal & billing platforms at scale** — systems serving 80K+ sellers across Brazil, Chile, and Peru
+- **Event-driven Go services** — microservices, Kafka, Redis Streams, CQRS
+- **Payment & fintech domain** — LatAm payment rails (Pix, boleto), idempotency, reconciliation, tax rules
+- **Hard performance problems** — query optimization, throughput, observability, reliability
 
 ---
 
-## 🌐 Projects
+## Featured projects
 
-### IP Dev Blog
+### 🎂 Confeito Gestão — multi-tenant SaaS for bakery management
 
-Personal project focused on Software Engineering, Architecture, Cloud, AI, and Career Growth.
+Full product built end-to-end: multi-tenant SaaS with per-tenant data isolation, technical costing sheets that propagate ingredient price changes through recipes via Redis Streams, integrated online store, and order workflow (quote → production → delivery).
 
-🔗 https://ipdevblog.vercel.app
+| | |
+|---|---|
+| **Backend** | Go 1.25, Fiber, GORM, PostgreSQL 16, Redis |
+| **Frontend** | Next.js 15, TypeScript, Tailwind, shadcn/ui |
+| **Auth** | JWT with refresh tokens, rate limiting, tenant middleware |
+| **Quality** | 99 test files (Go + TS), Docker Compose, Postman collection |
+| **Scale** | ~62K LOC across two apps + shared types package |
 
-Built with:
+> Private repository (commercial product). Architecture write-ups and generic patterns are published separately — happy to walk through the design in detail.
 
-* Next.js
-* .NET
-* PostgreSQL
-* CI/CD
+### 🧪 DotNetLab — independent .NET labs
+
+Personal lab of self-contained .NET experiments: Saga Pattern with MassTransit state machine, four rate-limiting algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket), each with its own solution, tests, and Makefile targets.
+
+🔗 [github.com/williammacarini/DotNetLab](https://github.com/williammacarini/DotNetLab)
+
+### ✍️ williammacarini.com.br — bilingual engineering blog
+
+**42 posts in Portuguese and English** on Go patterns, .NET, architecture, and AI-assisted software engineering. Written in MDX with a custom Next.js App Router setup.
+
+🔗 [williammacarini.com.br](https://www.williammacarini.com.br)
+
+Selected writing:
+
+- Chain of Responsibility in Go
+- Functional Options in Go
+- Saga Pattern in Go
+- Observer Pattern in Go
+- Pipeline Pattern in Go
+- Go 1.26 Green Tea GC
+- SOLID Principles in C#
+- Builder Pattern in C#
+- AI-assisted SDLC orchestration
+- Claude Code hooks & skills
 
 ---
 
-## 📫 Contact
+## Tech stack
 
-* Email: [wpmacarini@hotmail.com](mailto:wpmacarini@hotmail.com)
-* LinkedIn: https://linkedin.com/in/william-macarini-288aa5189
-* Blog: https://ipdevblog.vercel.app
+**Languages** — Go · C# · TypeScript · Python · F#
+
+**Backend** — Fiber · ASP.NET Core · GORM · EF Core · REST · gRPC
+
+**Architecture** — Microservices · Event-Driven · CQRS · Event Sourcing · Clean / Hexagonal / Onion · DDD · Saga
+
+**Data & Messaging** — PostgreSQL · Redis · Kafka · MySQL · BigQuery
+
+**Cloud & Infra** — Azure · Kubernetes · Docker · AWS · GCP · CI/CD
+
+**Observability** — OpenTelemetry · Datadog · Kibana
 
 ---
 
-## 📈 GitHub Stats
+## Contact
+
+- 🌐 Blog — [williammacarini.com.br](https://www.williammacarini.com.br)
+- 💼 LinkedIn — [william-macarini](https://www.linkedin.com/in/william-macarini-288aa5189)
+- 📫 Email — [wpmacarini@hotmail.com](mailto:wpmacarini@hotmail.com)
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammacarini\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammacarini&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williammacarini\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williammacarini&layout=compact&hide_border=true)
 
 </div>
-
-          
-          
