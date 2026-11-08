@@ -57,7 +57,7 @@ Personal lab of self-contained .NET experiments: Saga Pattern with MassTransit s
 
 ### ✍️ williammacarini.com.br — bilingual engineering blog
 
-**42 posts in Portuguese and English** on Go patterns, .NET, architecture, and AI-assisted software engineering. Written in MDX with a custom Next.js App Router setup.
+**21 articles, each published in Portuguese and English** — on Go patterns, .NET, architecture, and AI-assisted software engineering. Written in MDX with a custom Next.js App Router setup.
 
 🔗 [williammacarini.com.br](https://www.williammacarini.com.br)
 
