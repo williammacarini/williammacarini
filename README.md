@@ -29,7 +29,25 @@ Full product built end-to-end: multi-tenant SaaS with per-tenant data isolation,
 | **Quality** | 99 test files (Go + TS), Docker Compose, Postman collection |
 | **Scale** | ~62K LOC across two apps + shared types package |
 
-> Private repository (commercial product). Architecture write-ups and generic patterns are published separately — happy to walk through the design in detail.
+> Private repository (commercial product). The architecture is documented publicly — see below.
+
+### 🏗️ confeito-architecture — design decisions behind the SaaS
+
+Architecture write-ups extracted from the production codebase above. Not tutorials — the actual decisions, their trade-offs, and what I'd do differently.
+
+- **Cost cascading via Redis Streams** — how an ingredient price change propagates through preparations, recipes and catalog products, including the `XAUTOCLAIM` / PEL failure mode that only surfaces when a worker dies mid-message in production.
+- **Multi-tenancy** — shared tables with a single enforcement choke point, its honest weaknesses, and the documented trigger that would make me revisit the decision.
+- **Testing strategy** — 43 test files across services, handlers and middleware.
+
+🔗 [github.com/williammacarini/confeito-architecture](https://github.com/williammacarini/confeito-architecture)
+
+### 🧱 solid-principles — SOLID in C#, violation and fix
+
+Five principles, each shown twice: the code that violates it and the refactor that fixes it. Drawn from payments and billing rather than the usual shapes and animals — so the trade-offs are real, and a couple of the refactors are only worth doing once the second case appears.
+
+**10 tests passing**, .NET 10, zero build warnings.
+
+🔗 [github.com/williammacarini/solid-principles](https://github.com/williammacarini/solid-principles)
 
 ### 🧪 DotNetLab — independent .NET labs
 
